@@ -68,14 +68,14 @@
 
 _Note: Update with actual locations before leaving._
 
-- UDM Pro: `______`  
-- Switches #1-5: `______`  
-- APs: `______`  
-- NAS: `______`  
-- Roku TVs: `______`  
-- Apple TV: `______`  
-- Chromecast: `______`  
-- Echo Shows and Pops: `______`  
+- UDM Pro: `Server Rack in my office`  
+- Switches #1-5: `Server Rack in my office`  
+- APs: `Office (mine), Small downstairs office, Back patio`  
+- NAS: `Server Rack in my office`  
+- Roku TVs: `Living Room`  
+- Apple TV: `Living Room`  
+- Chromecast: `Living Room`  
+- Echo Shows and Pops: `In all rooms`  
 
 ---
 
